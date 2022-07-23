@@ -1,6 +1,9 @@
 # Trapventure
 Your goal is to find the hidden treasure inside the dungeon.
 
+# Urifinal
+https://github.com/timohausmann/trapventure
+
 This is my entry for the [JS13k Games Compo 2015](http://2015.js13kgames.com/), where the only limit is a zipped filesize of 13 KB.
 
 ## Features 
